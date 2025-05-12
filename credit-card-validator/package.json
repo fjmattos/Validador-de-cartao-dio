@@ -1,0 +1,14 @@
+{
+  "name": "credit-card-validator",
+  "version": "1.0.0",
+  "description": "A simple application to identify credit card brands based on card numbers.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
